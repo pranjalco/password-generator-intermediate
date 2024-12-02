@@ -7,6 +7,8 @@ This program helps create strong passwords that are harder for hackers to guess.
 
 ## Level
 - **Level**: Intermediate
+- **Skills:** Python, Lists, Loops, Random Module, Input Validation, Error Handling  
+- **Domain:** Cybersecurity, Utility
 
 ## Author
 - **Name**: Pranjal Sarnaik
